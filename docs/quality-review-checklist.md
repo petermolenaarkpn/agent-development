@@ -1,0 +1,3 @@
+- [ ] Code and actions reviewed
+- [ ] Knowledge sources validated
+- [ ] README and templates complete

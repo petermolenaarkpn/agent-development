@@ -1,0 +1,4 @@
+- [ ] README present and clear
+- [ ] Topics documented
+- [ ] Actions listed and actionable
+- [ ] Knowledge sources cited
